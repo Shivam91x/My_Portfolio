@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Ecommerce",
+    "image": "ecommerce.png",
+    "description": "A sleek, user-friendly e-commerce application offering seamless product browsing, secure checkout, and real-time order tracking. Built with modern web technologies to deliver an exceptional shopping experience.",
+    "technologies": ["JavaScript", "React", "Tailwind CSS", "REST API", "React-router" ]
+  },
+  {
+    "name": "Employee Management System",
+    "image": "employee.png",
+    "description": "A streamlined Employee Management System for efficient staff tracking, role assignments, attendance, and performance monitoring. Simplifies HR tasks with intuitive features and real-time data management.",
+    "technologies": ["JavaScript",  "React", "Context API", "LocalStorage", "Tailwind CSS"]
+  },
+  {
+    "name": "Shivam Docs",
+    "image": "shivamdocs.png",
+    "description": "A simple yet powerful document management application that allows users to create, edit, and organize their notes or tasks efficiently. It supports real-time data persistence using LocalStorage and ensures smooth state management with Context API.",
+    "technologies": ["JavaScript", "React", "Tailwind CSS", "LocalStorage", "Context API"]
+  },
+  {
+    "name": "Weather App",
+    "image": "weather.png",
+    "description": "A dynamic weather application that enables users to check current weather conditions based on city or location input. It fetches real-time weather data, including temperature, humidity, and wind speed, using a REST API and displays the information in an intuitive UI.",
+    "technologies": ["JavaScript", "React", "REST API", "Axios"]
+  }
+  
+]
