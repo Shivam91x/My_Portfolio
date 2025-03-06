@@ -32,5 +32,12 @@
     "eslint-plugin-react-refresh": "^0.4.18",
     "globals": "^15.14.0",
     "vite": "^6.2.0"
+  },
+  "build": {
+    "command": "npm run build",
+    "outputDirectory": "dist"
+  },
+  "engines": {
+    "node": "20.x"
   }
 }
